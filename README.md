@@ -12,4 +12,4 @@ The `dev` data included unlabeled samples from both the 50 given languages and t
 The `test` was similar to `dev` but it could have been only used for making submissions to the competition.
 
 * [our solution](./A%20Semisupervised%20Approach%20for%20Language%20Identification%20based%20on%20Ladder%20Networks.ipynb) used a modification of the [Ladder Network](http://arxiv.org/abs/1507.02672) and [published code](https://github.com/CuriousAI/ladder).
-* fun with the i-vector dataset supplied by [NIST Online i-vector Evaluations](https://ivectorchallenge.nist.gov/)
+* [The dark knowledge of tongues](./The%20dark%20knowledge%20of%20tongues.ipynb), fun with the i-vector dataset supplied by the challenge.
