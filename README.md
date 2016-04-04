@@ -1,6 +1,6 @@
 <a target="_blank" href="http://twitter.com/udibr"><img alt='Twitter followers' src="https://img.shields.io/twitter/follow/udibr.svg?style=social"></a>
 
-This repository contains source code for the experiments in a paper titled [A Semisupervised Approach for Language Identification based on Ladder Networks by Ehud Ben-Reuven and Jacob Goldberger](http://arxiv.org/pdf/1604.00317v1.pdf)
+This repository contains source code for the experiments in a paper titled [A Semisupervised Approach for Language Identification based on Ladder Networks](http://arxiv.org/pdf/1604.00317v1.pdf)
 
 In 2015 NIST conducted a [LRE i-vector challenge](https://ivectorchallenge.nist.gov/evaluations/2).
 The challenge was to identify which language is spoken from a speech sample, given that the language belongs 
