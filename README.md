@@ -13,5 +13,4 @@ The `test` was similar to `dev` but it could have been only used for making subm
 
 * [our solution](./A%20Semisupervised%20Approach%20for%20Language%20Identification%20based%20on%20Ladder%20Networks.ipynb) used a modification of the [Ladder Network](http://arxiv.org/abs/1507.02672) and [published code](https://github.com/CuriousAI/ladder).
 * [The dark knowledge of tongues](./The%20dark%20knowledge%20of%20tongues.ipynb), fun with the i-vector dataset supplied by the challenge.
-* [A Semisupervised Approach for Language Identification based on Ladder Networks](https://arxiv.org/abs/1604.00317)
 * [Odyssey 2016, video lecture](https://www.superlectures.com/odyssey2016/a-semisupervised-approach-for-language-identification-based-on-ladder-networks)
